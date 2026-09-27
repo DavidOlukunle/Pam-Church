@@ -26,7 +26,7 @@ export default function PrayerCounselling() {
 
               <div className="mt-10 flex flex-col gap-4 sm:flex-row">
                 <a
-                  href="tel:+2340000000000"
+                  href="tel:+2348065899854"
                   className="inline-flex items-center justify-center gap-2 bg-[#b08d57] px-7 py-4 text-sm font-medium text-white transition hover:bg-[#9c7c4d]"
                 >
                   <Phone size={17} />
@@ -66,7 +66,7 @@ export default function PrayerCounselling() {
           <span>Prayer & counselling line</span>
 
           <span className="text-[#24211d]/70">
-            +234 XXX XXX XXXX
+            +234 8065899854 / +234 7011124869
           </span>
         </div>
       </div>

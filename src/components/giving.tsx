@@ -4,9 +4,9 @@ import { Check, Copy, Heart } from "lucide-react";
 import { useState } from "react";
 
 const bankDetails = {
-  bankName: "BANK NAME",
+  bankName: "Monie Point",
   accountName: "PNEUMA ANOINTED MINISTRY",
-  accountNumber: "0000000000",
+  accountNumber: "6221755173",
 };
 
 export default function Giving() {
@@ -121,8 +121,7 @@ export default function Giving() {
               <div className="border-t border-[#24211d]/10 bg-[#ede8de] px-6 py-5 sm:px-8">
                 <p className="text-xs leading-6 text-[#24211d]/50">
                   Please verify the account details before making a transfer.
-                  Official giving details will be displayed here once
-                  confirmed by the ministry.
+              
                 </p>
               </div>
             </div>
