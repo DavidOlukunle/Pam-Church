@@ -4,28 +4,28 @@ import Reveal from "@/components/reveal";
 const services = [
   {
     day: "Sunday",
-    title: "Sunday School",
+    title: "Sunday School(WISDOM HOUR)",
     time: "8:00 AM — 9:00 AM",
     description:
       "A time of teaching, learning, and growing in the knowledge of God's Word.",
   },
   {
     day: "Sunday",
-    title: "Supernatural Service",
+    title: "Supernatural Encounter Service",
     time: "9:00 AM — 11:00 AM",
     description:
       "A time of worship, the Word, fellowship, and encountering the presence of God.",
   },
   {
     day: "Tuesday",
-    title: "Bible Study",
+    title: "Bible Study(PNEUMA HOUR OF ENCOUNTER)",
     time: "5:00 PM — 6:00 PM",
     description:
       "A focused time in God's Word, growing together in understanding and truth.",
   },
   {
     day: "Thursday",
-    title: "Prayer Meeting",
+    title: "Prayer Meeting(UPPER ROOM ENCOUNTER)",
     time: "5:00 PM — 6:00 PM",
     description:
       "A dedicated time of prayer, seeking God and standing together in faith.",

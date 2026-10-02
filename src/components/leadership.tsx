@@ -3,20 +3,20 @@ import Reveal from "@/components/reveal";
 
 const leaders = [
   {
-    name: "Rev(mrs) Ima Bennett",
-    role: "Senior Pastor",
+    name: "Apostle Ima Bennett",
+    role: "Senior Pastor / President",
     image: "/images/ima-bennett.jpg",
     bio: "Serving the commission in pastoral leadership, teaching, spiritual development, and the advancement of PAM's Christ-centred mandate.",
   },
   {
-    name: "Apostle Zoe Yaweh",
-    role: "Ministry Leader",
+    name: "Apostle Zoe",
+    role: "Vice President",
     image: "/images/zoe-yaweh.jpg",
     bio: "Serving the ministry through spiritual leadership, teaching, and the advancement of the Gospel and the vision of PAM.",
   },
   {
     name: "Rev. Dunamis-Odudu Bennett",
-    role: "Ministry Leader",
+    role: "Resident Pastor",
     image: "/images/dunamis.jpg",
     bio: "Committed to supporting the ministry's spiritual assignment through service, teaching, and the nurturing of lives in Christ.",
   },
